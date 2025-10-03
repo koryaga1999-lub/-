@@ -1,0 +1,61 @@
+ article {
+      background-image: url("./kartinka\ figma.png");
+      position: relative;
+      width: 350px;
+      height: 460px;
+      border-radius: 10px;
+      font-family: sans-serif;
+      gap: 230px;
+    }
+
+    p {
+      width: 108px;
+      height: 14px;
+      padding-top: 40px;
+      padding-left: 40px;
+      opacity: 0.5;
+      color: white;
+      letter-spacing: 5px;
+      font-family: Arial, sans-serif;
+      font-weight: 400px;
+      font-size: 12px;
+      line-height: 100%;
+      letter-spacing: 10%;
+      text-transform: uppercase;
+    }
+
+    .button {
+    width: 126px;
+    height: 44px;
+    margin-top: 230px;
+    margin-left: 40px;
+    border-radius: 5px;
+    padding: 14px 20px;
+    gap: 10px;
+    background-color: #A4F422;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+    .button:hover {
+        border: 2px solid rgb(31, 87, 146);
+    }
+
+    header {
+    width: 270px;
+    height: 72px;
+    margin-top: 24px;
+    margin-left: 40px;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 120%;
+    letter-spacing: 0%;
+    font-weight: bold;
+    text-decoration: dashed;
+}
